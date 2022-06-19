@@ -1,0 +1,21 @@
+[
+    {
+        "Author": "Eternita-S",
+        "Name": "MineClick",
+        "InternalName": "MineClick",
+        "AssemblyVersion": "1.0",
+        "Description": "Click",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Eternita-S/MineClick",
+        "Tags": [
+            "gold saucer",
+            "click"
+        ],
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
+        "Punchline": "Shows where Bamboo falls.",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1649962087"
+    }
+]
